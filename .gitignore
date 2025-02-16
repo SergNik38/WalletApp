@@ -1,0 +1,8 @@
+.env
+.vscode/
+*.pyc
+__pycache__/
+db.sqlite3 
+venv/
+rest_app/staticfiles/
+rest_app/static/
